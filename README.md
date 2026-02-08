@@ -112,7 +112,6 @@
 - **Object Detection**: Ollama llava:13b
 
 ### DevOps & Tools
-- **Containerization**: Docker
 - **Version Control**: Git
 - **Package Manager**: npm (Frontend), NuGet (Backend)
 - **IDE**: Visual Studio 2022, VS Code
@@ -126,7 +125,6 @@
 - **Backend**: .NET 9.0 SDK
 - **Frontend**: Node.js 18+, npm
 - **Database**: MySQL 8.0+
-- **Optional**: Docker, Python 3.9+ (for AI features)
 
 ### 1. Clone the Repository
 

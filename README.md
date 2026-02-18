@@ -17,7 +17,7 @@
   [Demo](http://localhost:5173) • [Documentation](#-documentation) • [Installation](#-installation) • [API Documentation](#-api-endpoints)
 </div>
 
-## 📸 Screenshots
+## 
 
 <div align="center">
 

@@ -40,6 +40,8 @@
 
 ---
 
+<div align="center">
+
 | 📋 **Table of Contents** |   |
 |--------------------------|---|
 | [About the Project](#-about-the-project) | [About the Project |
@@ -53,6 +55,8 @@
 | [Role-Based Authorization](#-role-based-authorization) | Role-Based Authorization |
 | [Contributing](#-contributing) | Contributing |
 | [License](#-license) | License |
+
+</div>
 
 
 ## 🎯 About the Project

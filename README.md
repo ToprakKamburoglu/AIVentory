@@ -34,7 +34,7 @@
   <img src="images/12.jpg" width="270" height="190" style="object-fit:cover; margin:4px;" />
   <img src="images/13.jpg" width="270" height="190" style="object-fit:cover; margin:4px;" />
 
-  <br/>
+  <br/><br/>
   📽️ For detailed visualization visit my <a href="https://www.linkedin.com/feed/update/urn:li:activity:7369736709476954119/?originTrackingId=NG24IiHAky0HsfdHs5EIWg%3D%3D">LinkedIn post</a>
 </div>
 
